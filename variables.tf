@@ -27,3 +27,11 @@ variable "ami_id" {
   description = "AMI for Ubuntu Ec2 instance"
   default     = "ami-0b9064170e32bde34"
 }
+
+variable "access_key" {
+  default = "AKIARYHHD7DPYK7JFW7C"
+}
+
+variable "secret_key" {
+  default = "P16+589oF1Y8kATVjFcAO87vAwY51OTVn8FBnuVN"
+}
