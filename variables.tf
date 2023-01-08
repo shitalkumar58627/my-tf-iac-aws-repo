@@ -29,9 +29,9 @@ variable "ami_id" {
 }
 
 variable "access_key" {
-  default = "AKIARYHHD7DPYK7JFW7C"
+  default = "AKIARYHHD7DPUGGVAP4I"
 }
 
 variable "secret_key" {
-  default = "P16+589oF1Y8kATVjFcAO87vAwY51OTVn8FBnuVN"
+  default = "qcLrsrWaag5XGS/6YLsuAx8FJM98iKB+UJB3Vl4K"
 }
