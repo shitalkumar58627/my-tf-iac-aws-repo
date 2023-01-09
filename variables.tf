@@ -28,10 +28,3 @@ variable "ami_id" {
   default     = "ami-0b5eea76982371e91"
 }
 
-variable "access_key" {
-  default = "AKIARYHHD7DPUGGVAP4I"
-}
-
-variable "secret_key" {
-  default = "qcLrsrWaag5XGS/6YLsuAx8FJM98iKB+UJB3Vl4K"
-}
